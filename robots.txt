@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /share/
+Disallow: /support/
+Disallow: /vopros/kak-chitat-bibliyu/
+Disallow: /co*
+Disallow: /li*
+Disallow: /mi*
+Disallow: /p*
+Disallow: /se*
+Disallow: /te*
+Disallow: /ti*
+Disallow: /vi*
+Disallow: /we*
+Sitemap: http://otveti.org/sitemap.xml
