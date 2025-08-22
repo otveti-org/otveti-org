@@ -1,0 +1,1 @@
+var p=document.getElementById('wrap'),e=document.createElement('A');e.id='christmas';e.target="_blank";e.rel="nofollow";e.href="http://share.otveti.org/rozhdestvenskie-pesni/";e.title="Рождественские песни и видео";e.innerHTML=e.title;p.insertBefore(e,p.firstChild);

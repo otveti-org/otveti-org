@@ -1,0 +1,1 @@
+var p=document.getElementById('wrap'),e=document.createElement('A');e.id='easter';e.target="_blank";e.rel="nofollow";e.href="http://share.otveti.org/iisus-hristos/";e.title="Фильм: Иисус Христос";e.innerHTML="Иисус Христос умер<span>за наши грехи</span><span>и воскрес!</span>";p.insertBefore(e,p.firstChild);
